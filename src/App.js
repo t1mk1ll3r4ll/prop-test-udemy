@@ -15,6 +15,7 @@ function App() {
         cajita de comentarios
       </h3>
       <hr/>
+      <hr></hr>
       <Comentario img="https://picsum.photos/64" nombre="pedrito" comentario="este es el comentario de pedrito"/>
       <Comentario img="https://picsum.photos/64" nombre="juanito" comentario="este es el comentario de juanito"/>
       <Comentario img="https://picsum.photos/64" nombre="lalito" comentario="este es el comentario de lalito"/>
